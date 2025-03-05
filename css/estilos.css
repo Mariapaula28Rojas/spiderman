@@ -1,0 +1,95 @@
+@charset "utf-8";
+
+body{
+    background-image: url("../images/spiderfnd2.jpg");	
+}
+
+.container
+
+.navbar{
+	background:rgba(206,0,3,1.00)
+}
+
+
+.tmn{
+	width: 100px;
+	height: auto;
+	
+}
+.fndd{
+    background-image: url(../img/spiderds.jpg);	
+	background-size: cover;
+}
+
+.alej{
+	margin-left: 60%
+}
+
+.txtt{
+	color: white;
+}
+.dap-foot {
+	margin-top: 10px;
+	background: rgba(255,0,4,1.00)
+}
+.row .col-12 p {
+    color: rgba(255,255,255,1.00);
+}
+.jatsi {
+	background: rgba(255,0,4,0.40);
+	color: white;
+	padding: 5px;
+	text-align: center;
+	border-radius: 5px;
+}
+
+.jatsii {
+	
+	margin-top: 10px;
+}
+
+.jatsi2 {
+	background: rgba(0,5,255,0.40);
+	color: white;
+	padding: 5px;
+	text-align: center;
+	border-radius: 10px;
+	margin-top: 10px;
+	padding: 10px;
+
+}
+
+
+
+.img-spid{
+	width: 200px;
+	height: auto;
+}
+
+ul li{
+	list-style: none;
+}
+ul li a {
+    text-decoration: none;
+	list-style: none;
+    color: rgba(255,255,255,1.00);
+}
+
+ul li a:hover{
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+	
+}
+
+.bg-az{
+	background:  rgba(0,5,255,0.60);
+	color: white;
+	margin: 20px 0px;
+	padding: 20px;
+}
+
+.jatsi78{
+padding: 10px;
+	font-size: 20px;
+}
